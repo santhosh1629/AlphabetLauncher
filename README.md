@@ -47,6 +47,21 @@ The main calculation is based on the distance between the touch position and eac
 - Automatic keyboard on search
 - Tap to launch applications
 
+## Libraries Used
+
+- AndroidX Activity
+- AndroidX AppCompat
+- AndroidX Core
+- ConstraintLayout
+- Material Components
+- RecyclerView 1.4.0
+
+### Testing Libraries
+
+- JUnit
+- AndroidX JUnit
+- Espresso
+
 ## Technologies Used
 
 - Kotlin
